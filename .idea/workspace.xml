@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2475abf-a5bd-4e4e-983d-7ed6bf8f4f93" name="Default Changelist" comment="" />
+    <list default="true" id="e2475abf-a5bd-4e4e-983d-7ed6bf8f4f93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -19,6 +24,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1kXC33eGaKyyRpOIwxHZkWddDS7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -28,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/ebanghu/codes/icare" />
@@ -94,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605837346167</updated>
-      <workItem from="1605837347981" duration="16458000" />
+      <workItem from="1605837347981" duration="16942000" />
     </task>
     <servers />
   </component>
@@ -146,6 +153,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="896" height="531" key="XDebugger.FullValuePopup/0.23.1792.1097@0.23.1792.1097" timestamp="1605868652826" />
+    <state x="561" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1606047387213">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="259" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1606047387213" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
