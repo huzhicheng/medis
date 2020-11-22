@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2475abf-a5bd-4e4e-983d-7ed6bf8f4f93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/software/maven/repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1kXC33eGaKyyRpOIwxHZkWddDS7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ebanghu/codes/icare" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="MedisClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kite.medis.MedisClient" />
+      <module name="medis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kite.medis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MedisClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2475abf-a5bd-4e4e-983d-7ed6bf8f4f93" name="Default Changelist" comment="" />
+      <created>1605837346167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605837346167</updated>
+      <workItem from="1605837347981" duration="16458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="277" key="#com.intellij.ide.util.MemberChooser" timestamp="1605838008273">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="277" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1605838008273" />
+    <state x="697" y="226" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605837463667">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="697" y="226" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1605837463667" />
+    <state width="1750" height="535" key="GridCell.Tab.0.bottom" timestamp="1606047278941">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="535" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606047278941" />
+    <state width="1750" height="535" key="GridCell.Tab.0.center" timestamp="1606047278939">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="535" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606047278939" />
+    <state width="1750" height="535" key="GridCell.Tab.0.left" timestamp="1606047278937">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="535" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606047278937" />
+    <state width="1750" height="535" key="GridCell.Tab.0.right" timestamp="1606047278939">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="535" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606047278939" />
+    <state width="1750" height="446" key="GridCell.Tab.1.bottom" timestamp="1606046404916">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="446" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1606046404916" />
+    <state width="1750" height="446" key="GridCell.Tab.1.center" timestamp="1606046404915">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="446" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1606046404915" />
+    <state width="1750" height="446" key="GridCell.Tab.1.left" timestamp="1606046404915">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="446" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1606046404915" />
+    <state width="1750" height="446" key="GridCell.Tab.1.right" timestamp="1606046404915">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="446" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1606046404915" />
+    <state width="896" height="531" key="XDebugger.FullValuePopup" timestamp="1605868652826">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="896" height="531" key="XDebugger.FullValuePopup/0.23.1792.1097@0.23.1792.1097" timestamp="1605868652826" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kite/medis/MedisClient.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kite/medis/MedisClient.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kite/medis/MedisClient.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kite/medis/MedisClient.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/kite/medis/MedisClient.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
